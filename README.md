@@ -56,7 +56,3 @@ By offering a transparent and tamper-proof verification process, this project co
 - Integrate with decentralized identity platforms for additional security.
 - Expand the system to include multiple types of certificates (e.g., professional certifications, diplomas).
 - Add multi-language support for global accessibility.
-
-## Conclusion
-The Certificate Verification Smart Contract leverages blockchain technology to address key challenges in the education sector. By ensuring secure, immutable, and transparent verification of certificates, this project contributes to the global mission of improving education standards and fostering trust in educational credentials.
-
